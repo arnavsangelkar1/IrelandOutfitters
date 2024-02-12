@@ -1,0 +1,6 @@
+Work Completed:
+Completed additional general payment processing methodology research while awaiting further sponsor feedback
+Investigated and began to experiment/implement automated email system for order confirmation/rental reminders
+  - worked in outside environment with a few email libraries and researched existing plugin for wordpress that sponsor may be interested in
+Worked on test plan and began to execute inital tests to reduce neccessary testing later on
+  - no significant bugs found with current limited site functionality, but this will likely changes as more features begin to interact
